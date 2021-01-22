@@ -67,7 +67,7 @@ https://hqb8188jzi.execute-api.us-east-2.amazonaws.com/dev/
 
 
 
-## Author
+## Autor
 Edgar Medina
 
 
